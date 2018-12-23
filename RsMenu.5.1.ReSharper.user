@@ -1,0 +1,155 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:ReportService.cs" caret="811" fromTop="6" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:Helpers.cs" caret="8901" fromTop="17" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:RsMenu.cs" caret="3021" fromTop="22" />
+      <File id="BA6D926F-3DC2-4E50-8522-2D892BDAF0B3/f:Form1.cs" caret="702" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:ReportService.cs" caret="11270" fromTop="17" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:RsMenu.cs" caret="202" fromTop="6" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:RsMenu.cs" caret="3202" fromTop="30" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:RsMenu.cs" caret="4278" fromTop="20" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:RsMenu.cs" caret="5805" fromTop="27" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:RsMenu.cs" caret="1320" fromTop="19" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:RsMenu.cs" caret="3251" fromTop="21" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:RsMenu.cs" caret="91" fromTop="3" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:RsMenu.cs" caret="3257" fromTop="21" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:RsMenu.cs" caret="3084" fromTop="30" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:RsMenu.cs" caret="2763" fromTop="20" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:RsMenu.cs" caret="2381" fromTop="15" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:RsMenu.cs" caret="2156" fromTop="21" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:RsMenu.cs" caret="1993" fromTop="15" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:RsMenu.cs" caret="6400" fromTop="15" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:RsMenu.cs" caret="1502" fromTop="15" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:RsMenu.cs" caret="6390" fromTop="88" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:RsMenu.cs" caret="1861" fromTop="9" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:RsMenu.cs" caret="2730" fromTop="30" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:ReportService.cs" caret="10351" fromTop="6" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:RsMenu.cs" caret="5137" fromTop="27" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:RsMenu.cs" caret="1258" fromTop="21" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:RsMenu.cs" caret="763" fromTop="13" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:RsMenu.cs" caret="1023" fromTop="18" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:RsMenu.cs" caret="227" fromTop="6" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:RsMenu.cs" caret="6400" fromTop="6" />
+      <File id="BA6D926F-3DC2-4E50-8522-2D892BDAF0B3/f:Form1.cs" caret="384" fromTop="17" />
+      <File id="BA6D926F-3DC2-4E50-8522-2D892BDAF0B3/f:Form1.cs" caret="737" fromTop="17" />
+      <File id="31E19430-9DC2-47D5-9A6B-48CF8F287519/f:RsMenu.cs" caret="3021" fromTop="22" />
+      <File id="BA6D926F-3DC2-4E50-8522-2D892BDAF0B3/f:Form1.cs" caret="618" fromTop="14" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="MenuStrip`0" priority="0" />
+      <Item value="System" priority="3" />
+      <Item value="Windows" priority="0" />
+      <Item value="Forms" priority="0" />
+      <Item value="Menu`0" priority="0" />
+      <Item value="public" priority="14" />
+      <Item value="prop" priority="0" />
+      <Item value="ReportingService2005`0" priority="1" />
+      <Item value="new" priority="4" />
+      <Item value="ReportingService2005" priority="0" />
+      <Item value="this" priority="21" />
+      <Item value="ImageIndexConverter`0" priority="0" />
+      <Item value="Image`0" priority="2" />
+      <Item value="GetCacheOptionsCompletedEventArgs`0" priority="1" />
+      <Item value="SetCacheOptionsCompletedEventHandler`0" priority="0" />
+      <Item value="bool" priority="1" />
+      <Item value="private" priority="3" />
+      <Item value="string" priority="3" />
+      <Item value="class" priority="0" />
+      <Item value="path" priority="0" />
+      <Item value="override" priority="1" />
+      <Item value="delegate" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="object" priority="1" />
+      <Item value="ShowReportsEventArgs`0" priority="1" />
+      <Item value="if" priority="1" />
+      <Item value="Show" priority="0" />
+      <Item value="sender" priority="2" />
+      <Item value="ShowReportsEventArgs" priority="0" />
+      <Item value="MenuItem" priority="0" />
+      <Item value="Resources`0" priority="1" />
+      <Item value="rItem" priority="1" />
+      <Item value="ThreadStaticAttribute`0" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="ToolStripItem`0" priority="0" />
+      <Item value="ToolStripDropDown`0" priority="0" />
+      <Item value="RsMenu`0" priority="0" />
+      <Item value="Url" priority="0" />
+      <Item value="ComponentModel" priority="2" />
+      <Item value="Design" priority="0" />
+      <Item value="Designer" priority="1" />
+      <Item value="DefaultValue" priority="1" />
+      <Item value="Bitmap`0" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="DesignerCategory" priority="0" />
+      <Item value="SettingsBindable" priority="0" />
+      <Item value="CheckForIllegalCrossThreadCalls" priority="0" />
+      <Item value="Load" priority="0" />
+      <Item value="rsMenu1" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RsMenu.RsMenu">
+      <Item value="ReportingService2005" priority="4" />
+      <Item value="FolderImage" priority="3" />
+      <Item value="ReportImage" priority="2" />
+      <Item value="Reportpath" priority="1" />
+      <Item value="UrlServer" priority="0" />
+      <Item value="UseDefaultCredentials" priority="1" />
+      <Item value="MenuItems" priority="0" />
+      <Item value="rItem" priority="1" />
+      <Item value="WebServiceUrl" priority="1" />
+      <Item value="Items" priority="0" />
+      <Item value="_rItem" priority="0" />
+      <Item value="_menuItem" priority="0" />
+      <Item value="Reportes`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ReportingService2005">
+      <Item value="Url" priority="0" />
+      <Item value="UseDefaultCredentials" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@RsMenu.Properties.Resources">
+      <Item value="folder" priority="1" />
+      <Item value="refresh" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RsMenu.RsMenu+ShowReportsEventArgs">
+      <Item value="ReportPath" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Menu+MenuItemCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripMenuItem">
+      <Item value="Click" priority="0" />
+      <Item value="DropDownItems" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ToolStripItemCollection">
+      <Item value="Add`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Bitmap">
+      <Item value="FromResource`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RsMenu", "RsMenu\RsMenu.csproj", "{31E19430-9DC2-47D5-9A6B-48CF8F287519}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{BA6D926F-3DC2-4E50-8522-2D892BDAF0B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31E19430-9DC2-47D5-9A6B-48CF8F287519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E19430-9DC2-47D5-9A6B-48CF8F287519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E19430-9DC2-47D5-9A6B-48CF8F287519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E19430-9DC2-47D5-9A6B-48CF8F287519}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA6D926F-3DC2-4E50-8522-2D892BDAF0B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6D926F-3DC2-4E50-8522-2D892BDAF0B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6D926F-3DC2-4E50-8522-2D892BDAF0B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6D926F-3DC2-4E50-8522-2D892BDAF0B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Documents and Settings\gpilar\My Documents\Visual Studio 2008\Projects\RsMenu\RsMenu\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gpilar\My Documents\Visual Studio 2008\Projects\RsMenu\RsMenu\bin\Debug\RsMenu.dll
+C:\Documents and Settings\gpilar\My Documents\Visual Studio 2008\Projects\RsMenu\RsMenu\bin\Debug\RsMenu.pdb
+C:\Documents and Settings\gpilar\My Documents\Visual Studio 2008\Projects\RsMenu\RsMenu\obj\Debug\RsMenu.dll
+C:\Documents and Settings\gpilar\My Documents\Visual Studio 2008\Projects\RsMenu\RsMenu\obj\Debug\RsMenu.pdb
+C:\Documents and Settings\gpilar\My Documents\Visual Studio 2008\Projects\RsMenu\RsMenu\obj\Debug\RsMenu.Properties.Resources.resources
+C:\Documents and Settings\gpilar\My Documents\Visual Studio 2008\Projects\RsMenu\RsMenu\obj\Debug\RsMenu.csproj.GenerateResource.Cache
